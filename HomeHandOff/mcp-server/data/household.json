@@ -1,0 +1,1007 @@
+{
+  "guides": [
+    {
+      "id": "restart-wifi",
+      "title": "Restart Wi-Fi",
+      "category": "Wi-Fi and Electronics",
+      "savedBy": "Dad",
+      "lastUpdated": "2026-10-12",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter",
+        "Guest"
+      ],
+      "shortDescription": "Restore the home internet connection using the router behind the TV cabinet.",
+      "mediaType": "image",
+      "mediaCaption": "Router location behind the living-room TV cabinet.",
+      "safetyNote": "Do not unplug other cables. Touch only the router power switch.",
+      "keywords": [
+        "wifi",
+        "wi-fi",
+        "internet",
+        "router",
+        "connection",
+        "restart",
+        "network"
+      ],
+      "steps": [
+        {
+          "id": "restart-wifi-step-1",
+          "text": "Go to the living-room TV cabinet and find the small router with two antennae."
+        },
+        {
+          "id": "restart-wifi-step-2",
+          "text": "Switch off only the router power button."
+        },
+        {
+          "id": "restart-wifi-step-3",
+          "text": "Wait for 20 seconds."
+        },
+        {
+          "id": "restart-wifi-step-4",
+          "text": "Switch the router back on."
+        },
+        {
+          "id": "restart-wifi-step-5",
+          "text": "Wait until the internet light becomes green, then reconnect."
+        }
+      ],
+      "estimatedMinutes": 3,
+      "version": 1,
+      "updatedBy": "Dad",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "washing-machine",
+      "title": "Washing Machine Guide",
+      "category": "Appliances",
+      "savedBy": "Mom",
+      "lastUpdated": "2026-10-08",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter"
+      ],
+      "shortDescription": "A simple guide for running a normal mixed-clothes wash.",
+      "mediaType": "image",
+      "mediaCaption": "Washing machine control panel and detergent drawer.",
+      "safetyNote": "Do not overload the machine. Keep children away while it is operating.",
+      "keywords": [
+        "washing",
+        "wash",
+        "clothes",
+        "machine",
+        "laundry",
+        "detergent"
+      ],
+      "steps": [
+        {
+          "id": "washing-machine-step-1",
+          "text": "Separate very dark clothes from light clothes."
+        },
+        {
+          "id": "washing-machine-step-2",
+          "text": "Put the clothes inside without filling more than three quarters of the drum."
+        },
+        {
+          "id": "washing-machine-step-3",
+          "text": "Add detergent to the drawer marked with two lines."
+        },
+        {
+          "id": "washing-machine-step-4",
+          "text": "Choose Normal Wash."
+        },
+        {
+          "id": "washing-machine-step-5",
+          "text": "Press Start and wait until the cycle finishes."
+        }
+      ],
+      "estimatedMinutes": 5,
+      "version": 1,
+      "updatedBy": "Mom",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "pet-feeding",
+      "title": "Pet Feeding Routine",
+      "category": "Pet Care",
+      "savedBy": "Sister",
+      "lastUpdated": "2026-10-15",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter",
+        "Child Mode"
+      ],
+      "shortDescription": "Feed Bruno safely using his usual bowl and measured food scoop.",
+      "mediaType": "image",
+      "mediaCaption": "Bruno’s food container and blue feeding bowl.",
+      "safetyNote": "Do not give chocolate, spicy food, cooked bones, or medicine without homeowner permission.",
+      "keywords": [
+        "pet",
+        "dog",
+        "bruno",
+        "feed",
+        "food",
+        "feeding",
+        "bowl"
+      ],
+      "steps": [
+        {
+          "id": "pet-feeding-step-1",
+          "text": "Take Bruno’s blue bowl from the lower kitchen shelf."
+        },
+        {
+          "id": "pet-feeding-step-2",
+          "text": "Add one level scoop of dry food from the labelled container."
+        },
+        {
+          "id": "pet-feeding-step-3",
+          "text": "Refill the water bowl with clean water."
+        },
+        {
+          "id": "pet-feeding-step-4",
+          "text": "Place both bowls near the balcony door."
+        },
+        {
+          "id": "pet-feeding-step-5",
+          "text": "Tell Bruno “food time” and give him space to eat."
+        }
+      ],
+      "estimatedMinutes": 4,
+      "version": 1,
+      "updatedBy": "Sister",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "water-motor-switch",
+      "title": "Water Motor Switch",
+      "category": "Utilities",
+      "savedBy": "Dad",
+      "lastUpdated": "2026-10-10",
+      "allowedRoles": [
+        "Homeowner"
+      ],
+      "shortDescription": "Locate the water motor switch near the utility area.",
+      "mediaType": "image",
+      "mediaCaption": "Water motor switch panel near the utility area.",
+      "safetyNote": "Electrical and water systems can be hazardous. Do not operate this guide unless you are authorized and know it is safe.",
+      "keywords": [
+        "water",
+        "motor",
+        "switch",
+        "pump",
+        "utility",
+        "tank",
+        "water pump"
+      ],
+      "steps": [
+        {
+          "id": "water-motor-switch-step-1",
+          "text": "Go to the utility area beside the back entrance."
+        },
+        {
+          "id": "water-motor-switch-step-2",
+          "text": "Find the labelled switch panel."
+        },
+        {
+          "id": "water-motor-switch-step-3",
+          "text": "Check that the floor and your hands are dry."
+        },
+        {
+          "id": "water-motor-switch-step-4",
+          "text": "Turn on the switch marked Water Motor."
+        },
+        {
+          "id": "water-motor-switch-step-5",
+          "text": "Turn it off once the tank-level indicator shows full."
+        }
+      ],
+      "estimatedMinutes": 3,
+      "version": 1,
+      "updatedBy": "Dad",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "power-cut-checklist",
+      "title": "Power Cut Checklist",
+      "category": "Emergency Information",
+      "savedBy": "Family",
+      "lastUpdated": "2026-10-06",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter"
+      ],
+      "shortDescription": "A safe checklist for a temporary household power outage.",
+      "mediaType": "image",
+      "mediaCaption": "Torch location and main electrical panel.",
+      "safetyNote": "Do not touch exposed wires, damaged sockets, or electrical panels if there is water nearby.",
+      "keywords": [
+        "power",
+        "electricity",
+        "outage",
+        "blackout",
+        "current",
+        "lights",
+        "emergency"
+      ],
+      "steps": [
+        {
+          "id": "power-cut-checklist-step-1",
+          "text": "Use the torch kept in the top kitchen drawer."
+        },
+        {
+          "id": "power-cut-checklist-step-2",
+          "text": "Check whether the corridor lights are also off."
+        },
+        {
+          "id": "power-cut-checklist-step-3",
+          "text": "Unplug sensitive electronics if there is lightning or a power surge."
+        },
+        {
+          "id": "power-cut-checklist-step-4",
+          "text": "Do not touch the main electrical panel if the area is wet."
+        },
+        {
+          "id": "power-cut-checklist-step-5",
+          "text": "Contact the homeowner if power does not return."
+        }
+      ],
+      "important": true,
+      "estimatedMinutes": 5,
+      "version": 1,
+      "updatedBy": "Family",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "guest-wifi-rules",
+      "title": "Guest Wi-Fi and House Rules",
+      "category": "General Instructions",
+      "savedBy": "Family",
+      "lastUpdated": "2026-10-03",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter",
+        "Guest",
+        "Child Mode"
+      ],
+      "shortDescription": "Basic guest Wi-Fi information and simple household rules.",
+      "mediaType": "image",
+      "mediaCaption": "Guest Wi-Fi card on the living-room side table.",
+      "safetyNote": "Do not share household access details outside the home.",
+      "keywords": [
+        "guest",
+        "wifi password",
+        "wi-fi password",
+        "rules",
+        "house rules",
+        "visitors"
+      ],
+      "steps": [
+        {
+          "id": "guest-wifi-rules-step-1",
+          "text": "Find the guest Wi-Fi card on the living-room side table."
+        },
+        {
+          "id": "guest-wifi-rules-step-2",
+          "text": "Connect to the network shown on the card."
+        },
+        {
+          "id": "guest-wifi-rules-step-3",
+          "text": "Use headphones for media after 10 PM."
+        },
+        {
+          "id": "guest-wifi-rules-step-4",
+          "text": "Keep the balcony door closed when leaving the room."
+        },
+        {
+          "id": "guest-wifi-rules-step-5",
+          "text": "Ask the homeowner before changing device settings."
+        }
+      ],
+      "estimatedMinutes": 2,
+      "version": 1,
+      "updatedBy": "Family",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "fire-tv-basics",
+      "title": "Fire TV: Watch a Show and Fix Common Issues",
+      "category": "TV and Electronics",
+      "savedBy": "HomeHandoff",
+      "lastUpdated": "2026-10-20",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter",
+        "Guest"
+      ],
+      "shortDescription": "Turn on the TV, choose Fire TV, connect to Wi-Fi, open an app, play a show, and try safe fixes for common problems.",
+      "mediaType": "image",
+      "mediaCaption": "TV remote, HDMI input, and Fire TV home screen.",
+      "safetyNote": "Never factory-reset the TV, change account details, or purchase content without the homeowner’s permission. Keep liquids away from electronics.",
+      "keywords": [
+        "fire tv",
+        "firetv",
+        "television",
+        "tv",
+        "remote",
+        "hdmi",
+        "input",
+        "wifi",
+        "apps",
+        "streaming",
+        "show",
+        "play",
+        "troubleshoot"
+      ],
+      "steps": [
+        {
+          "id": "fire-tv-basics-step-1",
+          "title": "Turn on the TV and Fire TV",
+          "explanation": "Point the TV remote toward the screen and press Power. If the screen stays dark, check that the TV and Fire TV power cables are firmly connected to the wall and device. Wait a few seconds for the home screen to load.",
+          "action": "Press Power once, then wait up to 30 seconds for the screen.",
+          "text": "Point the TV remote toward the screen and press Power. If the screen stays dark, check that the TV and Fire TV power cables are firmly connected to the wall and device. Wait a few seconds for the home screen to load.\nPress Power once, then wait up to 30 seconds for the screen."
+        },
+        {
+          "id": "fire-tv-basics-step-2",
+          "title": "Select the Fire TV input",
+          "explanation": "If you see a cable box, game console, or blank screen instead of Fire TV, use the TV remote’s Input or Source button. Choose the HDMI input labeled for the Fire TV stick or box; the label may be HDMI 1 or HDMI 2.",
+          "action": "Press Input/Source and select the matching HDMI port.",
+          "text": "If you see a cable box, game console, or blank screen instead of Fire TV, use the TV remote’s Input or Source button. Choose the HDMI input labeled for the Fire TV stick or box; the label may be HDMI 1 or HDMI 2.\nPress Input/Source and select the matching HDMI port."
+        },
+        {
+          "id": "fire-tv-basics-step-3",
+          "title": "Connect Fire TV to Wi-Fi",
+          "explanation": "From the Fire TV home screen, open Settings, choose Network, select the household Wi-Fi name, and enter the password from the homeowner’s approved note. Wait for the Connected confirmation before opening a streaming app.",
+          "action": "Open Settings → Network, select the home network, and choose Connect.",
+          "text": "From the Fire TV home screen, open Settings, choose Network, select the household Wi-Fi name, and enter the password from the homeowner’s approved note. Wait for the Connected confirmation before opening a streaming app.\nOpen Settings → Network, select the home network, and choose Connect."
+        },
+        {
+          "id": "fire-tv-basics-step-4",
+          "title": "Open the streaming app",
+          "explanation": "Use the directional ring to highlight the app tile on the Home row. If it is not visible, open Find or App Library and choose the app the household uses. Do not sign out or change profiles.",
+          "action": "Highlight the approved app and press the center Select button.",
+          "text": "Use the directional ring to highlight the app tile on the Home row. If it is not visible, open Find or App Library and choose the app the household uses. Do not sign out or change profiles.\nHighlight the approved app and press the center Select button."
+        },
+        {
+          "id": "fire-tv-basics-step-5",
+          "title": "Find and play content",
+          "explanation": "Browse or search inside the app, select the intended show or movie, and review the title before playback. Use the center Select button to start it, then use Play/Pause or Back on the remote as needed.",
+          "action": "Choose the correct title, then press Select or Play.",
+          "text": "Browse or search inside the app, select the intended show or movie, and review the title before playback. Use the center Select button to start it, then use Play/Pause or Back on the remote as needed.\nChoose the correct title, then press Select or Play."
+        },
+        {
+          "id": "fire-tv-basics-step-6",
+          "title": "Try safe fixes if something is wrong",
+          "explanation": "First confirm the TV is on the Fire TV HDMI input and Wi-Fi is connected. Press Back and reopen a frozen app, then wait briefly. If the device remains stuck, ask the homeowner before restarting or changing settings; never factory-reset it.",
+          "action": "Check Input and Network, reopen the app, and contact the homeowner before deeper troubleshooting.",
+          "text": "First confirm the TV is on the Fire TV HDMI input and Wi-Fi is connected. Press Back and reopen a frozen app, then wait briefly. If the device remains stuck, ask the homeowner before restarting or changing settings; never factory-reset it.\nCheck Input and Network, reopen the app, and contact the homeowner before deeper troubleshooting."
+        }
+      ],
+      "estimatedMinutes": 6,
+      "version": 1,
+      "updatedBy": "HomeHandoff",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "air-conditioner-operation",
+      "title": "Air Conditioner: Set a Comfortable Temperature",
+      "category": "Appliances",
+      "savedBy": "HomeHandoff",
+      "lastUpdated": "2026-10-20",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter",
+        "Guest"
+      ],
+      "shortDescription": "Use the household remote safely and check the unit when it does not respond.",
+      "mediaType": "image",
+      "mediaCaption": "Air-conditioner remote stored near the living-room unit.",
+      "safetyNote": "Keep the air inlet and outlet clear. Do not open the unit or touch wiring; contact the homeowner if water leaks or there is a burning smell.",
+      "keywords": [
+        "air conditioner",
+        "AC",
+        "cooling",
+        "remote",
+        "temperature",
+        "fan"
+      ],
+      "steps": [
+        {
+          "id": "air-conditioner-operation-step-1",
+          "text": "Find the labeled air-conditioner remote near the living-room unit and check that its display is on."
+        },
+        {
+          "id": "air-conditioner-operation-step-2",
+          "text": "Press Power and wait for the indoor unit to beep; do not repeatedly press the button."
+        },
+        {
+          "id": "air-conditioner-operation-step-3",
+          "text": "Choose Cool mode using the Mode button, then set the household’s usual temperature with the arrows."
+        },
+        {
+          "id": "air-conditioner-operation-step-4",
+          "text": "Set fan speed to Auto unless the homeowner left another preference; point the remote at the unit."
+        },
+        {
+          "id": "air-conditioner-operation-step-5",
+          "text": "If it does not respond, check remote batteries and that the unit’s air path is clear; contact the homeowner for leaks, unusual noise, or burning odor."
+        }
+      ],
+      "estimatedMinutes": 4,
+      "version": 1,
+      "updatedBy": "HomeHandoff",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "kitchen-appliance-safety",
+      "title": "Kitchen Appliance Safety",
+      "category": "Home Safety",
+      "savedBy": "HomeHandoff",
+      "lastUpdated": "2026-10-20",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter"
+      ],
+      "shortDescription": "Safe checks before, during, and after using everyday kitchen appliances.",
+      "mediaType": "image",
+      "mediaCaption": "Clear counter space and appliance power switches.",
+      "safetyNote": "Never leave a stove, toaster, kettle, or hot appliance unattended. If there is smoke or fire, move away and call local emergency services; do not use water on a grease or electrical fire.",
+      "keywords": [
+        "kitchen",
+        "safety",
+        "appliances",
+        "stove",
+        "toaster",
+        "kettle",
+        "fire"
+      ],
+      "steps": [
+        {
+          "id": "kitchen-appliance-safety-step-1",
+          "text": "Use an appliance only if you know its controls and the homeowner has approved its use."
+        },
+        {
+          "id": "kitchen-appliance-safety-step-2",
+          "text": "Place it on a dry, stable counter away from the sink, paper towels, and cloths."
+        },
+        {
+          "id": "kitchen-appliance-safety-step-3",
+          "text": "Check the cord and plug for visible damage; do not use a frayed, hot, or sparking appliance."
+        },
+        {
+          "id": "kitchen-appliance-safety-step-4",
+          "text": "Stay nearby while heating or cooking and keep children away from hot surfaces."
+        },
+        {
+          "id": "kitchen-appliance-safety-step-5",
+          "text": "Switch the appliance off when finished, let hot parts cool, and unplug only by holding the plug if the household instructions say to unplug it."
+        }
+      ],
+      "important": true,
+      "estimatedMinutes": 4,
+      "version": 1,
+      "updatedBy": "HomeHandoff",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "emergency-contacts-procedure",
+      "title": "Emergency Contacts and What to Do",
+      "category": "Emergency Information",
+      "savedBy": "HomeHandoff",
+      "lastUpdated": "2026-10-20",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter",
+        "Guest"
+      ],
+      "shortDescription": "A calm checklist for emergencies and contacting the right people.",
+      "mediaType": "image",
+      "mediaCaption": "Keep the household contact card by the entryway; add local numbers before relying on this guide.",
+      "safetyNote": "For immediate danger, serious injury, fire, or a medical emergency, call your local emergency number first. This guide is not a substitute for emergency services.",
+      "keywords": [
+        "emergency",
+        "contacts",
+        "phone",
+        "fire",
+        "medical",
+        "homeowner",
+        "procedure"
+      ],
+      "steps": [
+        {
+          "id": "emergency-contacts-procedure-step-1",
+          "text": "Move yourself and anyone in your care to a safer location if you can do so without increasing danger."
+        },
+        {
+          "id": "emergency-contacts-procedure-step-2",
+          "text": "For fire, serious injury, violence, or immediate danger, call the local emergency number and state the address and what happened."
+        },
+        {
+          "id": "emergency-contacts-procedure-step-3",
+          "text": "Use the household contact card to call the homeowner and the listed backup contact after emergency services are contacted when needed."
+        },
+        {
+          "id": "emergency-contacts-procedure-step-4",
+          "text": "Share only clear facts: location, people involved, immediate hazards, and a callback number."
+        },
+        {
+          "id": "emergency-contacts-procedure-step-5",
+          "text": "Follow emergency-dispatch instructions, do not re-enter an unsafe area, and tell the homeowner when everyone is safe."
+        }
+      ],
+      "important": true,
+      "estimatedMinutes": 3,
+      "version": 1,
+      "updatedBy": "HomeHandoff",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "childcare-babysitting-routine",
+      "title": "Childcare and Babysitting Routine",
+      "category": "Family and Childcare",
+      "savedBy": "HomeHandoff",
+      "lastUpdated": "2026-10-20",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter"
+      ],
+      "shortDescription": "A simple handoff checklist for routines, safety, and caregiver communication.",
+      "mediaType": "image",
+      "mediaCaption": "Household routine and contact notes supplied by the homeowner.",
+      "safetyNote": "Use the child’s individual care plan and caregiver instructions. In an emergency, contact local emergency services. Never leave a child unattended in an unsafe situation.",
+      "keywords": [
+        "childcare",
+        "babysitting",
+        "baby",
+        "children",
+        "routine",
+        "caregiver",
+        "pickup",
+        "bedtime"
+      ],
+      "steps": [
+        {
+          "id": "childcare-babysitting-routine-step-1",
+          "text": "Read the homeowner’s current notes for allergies, medicines, approved foods, and emergency contacts; ask about anything unclear before the handoff."
+        },
+        {
+          "id": "childcare-babysitting-routine-step-2",
+          "text": "Confirm who is authorized to pick up the child and never release them to an unlisted person."
+        },
+        {
+          "id": "childcare-babysitting-routine-step-3",
+          "text": "Follow the usual meal, activity, and rest routine, checking with the homeowner before changing plans."
+        },
+        {
+          "id": "childcare-babysitting-routine-step-4",
+          "text": "Keep doors, medicines, cleaning products, and hot appliances secured and supervise age-appropriate activities."
+        },
+        {
+          "id": "childcare-babysitting-routine-step-5",
+          "text": "At bedtime, follow the household routine and check in with the homeowner as agreed; contact them promptly about illness, injury, or an unusual concern."
+        }
+      ],
+      "important": true,
+      "estimatedMinutes": 5,
+      "version": 1,
+      "updatedBy": "HomeHandoff",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "household-lights-switches",
+      "title": "Household Lights and Switches",
+      "category": "Household Basics",
+      "savedBy": "HomeHandoff",
+      "lastUpdated": "2026-10-20",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter",
+        "Guest",
+        "Child Mode"
+      ],
+      "shortDescription": "Find common room lights and use switches safely.",
+      "mediaType": "image",
+      "mediaCaption": "Room switch locations marked on the household walkthrough.",
+      "safetyNote": "Use only intact wall switches with dry hands. Do not touch exposed wiring, damaged switches, or electrical panels.",
+      "keywords": [
+        "lights",
+        "light switches",
+        "switches",
+        "lamp",
+        "electricity",
+        "household"
+      ],
+      "steps": [
+        {
+          "id": "household-lights-switches-step-1",
+          "text": "Use the room’s wall switch near the doorway; if it is not labeled, ask the homeowner which switch controls the fixture."
+        },
+        {
+          "id": "household-lights-switches-step-2",
+          "text": "For a lamp, make sure it is on a stable surface and plug it into an undamaged outlet before using its own switch."
+        },
+        {
+          "id": "household-lights-switches-step-3",
+          "text": "Turn lights off when leaving a room if the household routine requests it."
+        },
+        {
+          "id": "household-lights-switches-step-4",
+          "text": "If a light flickers, smells hot, or a switch feels warm, stop using it and notify the homeowner."
+        },
+        {
+          "id": "household-lights-switches-step-5",
+          "text": "Never remove a switch plate, replace a bulb in a hot fixture, or investigate wiring yourself."
+        }
+      ],
+      "estimatedMinutes": 2,
+      "version": 1,
+      "updatedBy": "HomeHandoff",
+      "videoNoteUrl": "",
+      "transcript": ""
+    },
+    {
+      "id": "basic-home-security",
+      "title": "Basic Home Security When Leaving",
+      "category": "Home Safety",
+      "savedBy": "HomeHandoff",
+      "lastUpdated": "2026-10-20",
+      "allowedRoles": [
+        "Homeowner",
+        "Family Member",
+        "Babysitter"
+      ],
+      "shortDescription": "A practical exit check that follows the homeowner’s security routine.",
+      "mediaType": "image",
+      "mediaCaption": "Entry door, window latch, and approved alarm panel locations.",
+      "safetyNote": "Do not share alarm codes or access details. Follow the homeowner’s approved instructions and do not confront an intruder; call emergency services if there is immediate danger.",
+      "keywords": [
+        "security",
+        "lock",
+        "door",
+        "window",
+        "alarm",
+        "leave",
+        "home safety"
+      ],
+      "steps": [
+        {
+          "id": "basic-home-security-step-1",
+          "text": "Before leaving, confirm everyone who should be home is accounted for and take the keys you are authorized to use."
+        },
+        {
+          "id": "basic-home-security-step-2",
+          "text": "Close and lock the entry door using the household’s normal method; gently check the handle without forcing the lock."
+        },
+        {
+          "id": "basic-home-security-step-3",
+          "text": "Check only the windows the homeowner asked you to check and close them if safe and reachable."
+        },
+        {
+          "id": "basic-home-security-step-4",
+          "text": "Set the alarm only if the homeowner has provided an approved personal code and shown you the correct procedure; do not guess or share codes."
+        },
+        {
+          "id": "basic-home-security-step-5",
+          "text": "If a lock or alarm behaves unexpectedly, leave the area secure if possible and contact the homeowner rather than disabling security settings."
+        }
+      ],
+      "important": true,
+      "estimatedMinutes": 3,
+      "version": 1,
+      "updatedBy": "HomeHandoff",
+      "videoNoteUrl": "",
+      "transcript": ""
+    }
+  ],
+  "requests": [],
+  "audit": [
+    {
+      "id": "audit-mvghu5ae-gxldjp",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T09:41:21.350Z",
+      "guideId": "pet-feeding",
+      "role": "Child Mode"
+    },
+    {
+      "id": "audit-mvghu57x-9bygcd",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T09:41:21.261Z",
+      "guideId": "pet-feeding",
+      "role": "Child Mode"
+    },
+    {
+      "id": "audit-mvghtnyi-bxmfte",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T09:40:58.891Z",
+      "guideId": "pet-feeding",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvghkg5n-1c199d",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T09:33:48.875Z",
+      "guideId": "pet-feeding",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvgeba8m-a3832i",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T08:02:42.454Z",
+      "guideId": "pet-feeding",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvge9nlx-ahi0xe",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T08:01:26.469Z",
+      "guideId": "restart-wifi",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvge99nk-l1bs96",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T08:01:08.384Z",
+      "guideId": "restart-wifi",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvge3tor-absbvy",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T07:56:54.411Z",
+      "guideId": "restart-wifi",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvgdz906-hd91st",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T07:53:20.982Z",
+      "guideId": "restart-wifi",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvgduhnl-jk0qub",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T07:49:38.913Z",
+      "guideId": "fire-tv-basics",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvgd6jqu-bmvwpr",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T07:31:01.878Z",
+      "guideId": "fire-tv-basics",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvgd3h0p-zkcqrk",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T07:28:38.377Z",
+      "guideId": "power-cut-checklist",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvgd086o-4o9puk",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T07:26:06.960Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgczeoh-q32blh",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T07:25:28.721Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgbp7n4-q2k2ek",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:49:33.424Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgbnest-yim3ma",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:48:09.389Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgblm0f-jmvq1m",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:46:45.423Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgbjd0l-4wotat",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:45:00.453Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgbjczm-3pru67",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:45:00.418Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgbipug-42hye4",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:44:30.424Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgb9mp6-g2b5ls",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:37:26.442Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgb6i8k-gyv2fx",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:35:00.692Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgb6i4m-ktrmom",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:35:00.550Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgb491c-avj2sh",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:33:15.456Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgb1ch2-b90una",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:30:59.942Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgazt4y-b3ru5u",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:29:48.226Z",
+      "guideId": "restart-wifi",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgarfnr-11gkxq",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:23:17.511Z",
+      "guideId": "restart-wifi",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgaqwpb-wtk0lp",
+      "event": "guide marked helpful",
+      "createdAt": "2026-10-20T06:22:52.943Z",
+      "guideId": "restart-wifi",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvgaqoix-3fdy27",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T06:22:42.345Z",
+      "guideId": "restart-wifi",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvg9tgec-3ezknr",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:56:52.164Z",
+      "guideId": "power-cut-checklist",
+      "role": "Family Member"
+    },
+    {
+      "id": "audit-mvg94ahs-bx4yxc",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:37:18.112Z",
+      "guideId": "washing-machine",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg9453w-nbcx54",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:37:11.132Z",
+      "guideId": "washing-machine",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg8rpc7-l79k8b",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:27:30.823Z",
+      "guideId": "washing-machine",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg8r16p-itudbb",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:26:59.521Z",
+      "guideId": "power-cut-checklist",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg8oy9j-ix8hln",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:25:22.423Z",
+      "guideId": "power-cut-checklist",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg8mqec-zn2a9x",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:23:38.916Z",
+      "guideId": "power-cut-checklist",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg84ttc-1g7fi4",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:09:43.536Z",
+      "guideId": "restart-wifi",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg84h55-01p10w",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:09:27.113Z",
+      "guideId": "power-cut-checklist",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg842ha-kjqi66",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T05:09:08.110Z",
+      "guideId": "household-lights-switches",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg79b6e-6tvr2x",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T04:45:13.046Z",
+      "guideId": "restart-wifi",
+      "role": "Babysitter"
+    },
+    {
+      "id": "audit-mvg798lu-lartb8",
+      "event": "guide viewed",
+      "createdAt": "2026-10-20T04:45:09.715Z",
+      "guideId": "restart-wifi",
+      "role": "Babysitter"
+    }
+  ]
+}

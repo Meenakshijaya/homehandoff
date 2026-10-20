@@ -1,0 +1,29 @@
+{
+  "name": "homehandoff",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node mcp-server/dev-all.js",
+    "dev:frontend": "vite",
+    "dev:server": "node mcp-server/http.js",
+    "dev:all": "node mcp-server/dev-all.js",
+    "start": "node mcp-server/http.js",
+    "mcp:stdio": "node mcp-server/mcp.js",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "^0.468.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "typescript": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0"
+  }
+}

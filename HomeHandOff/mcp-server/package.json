@@ -1,0 +1,9 @@
+{
+  "name": "homehandoff-local-mcp",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node http.js",
+    "mcp": "node mcp.js"
+  }
+}
